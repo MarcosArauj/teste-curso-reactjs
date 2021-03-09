@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ceaf45f-9c31-4470-988b-2a5106f0010f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostCard/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostCard/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostCard/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostCard/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TextInput/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TextInput/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TextInput/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TextInput/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templetes/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/templetes/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/load-posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/load-posts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +41,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -39,11 +60,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615059987343</updated>
-      <workItem from="1615059988767" duration="71000" />
+      <workItem from="1615059988767" duration="405000" />
+      <workItem from="1615238271242" duration="4209000" />
+      <workItem from="1615326883820" duration="3629000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
